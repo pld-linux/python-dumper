@@ -1,5 +1,4 @@
 
-%include	/usr/lib/rpm/macros.python
 %define 	module	dumper
 
 Summary:	Python module for dumping nested data structures
