@@ -1,6 +1,6 @@
 
 %include	/usr/lib/rpm/macros.python
-%define 	module dumper
+%define 	module	dumper
 
 Summary:	Python module for dumping nested data structures
 Summary(pl):	Modu³ Pythona umo¿liwiaj±cy wypisywanie zawarto¶ci z³o¿onych struktur danych
