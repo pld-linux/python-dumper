@@ -2,7 +2,7 @@
 %define 	module	dumper
 
 Summary:	Python module for dumping nested data structures
-Summary(pl):	Modu≥ Pythona umoøliwiaj±cy wypisywanie zawarto∂ci z≥oøonych struktur danych
+Summary(pl.UTF-8):   Modu≈Ç Pythona umo≈ºliwiajƒÖcy wypisywanie zawarto≈õci z≈Ço≈ºonych struktur danych
 Name:		python-%{module}
 Version:	1.0
 Release:	1
@@ -22,12 +22,12 @@ Python data in a readable, customizable, controllable way. It handles
 recursive structures, class instances, and lets you control how deeply
 the dump goes in a couple of ways.
 
-%description -l pl
-dumper jest modu≥em umoøliwiaj±cym wy∂wietlanie zawarto∂ci z≥oøonych i
-zagnieødøonych struktur Pythona w czytelny, konfigurowalny i
-sterowalny sposÛb. Obs≥uguje rekurencyjne struktury danych, instancje
-klas oraz pozwala na kontrolÍ g≥Íboko∂ci analizy przetwarzanych
-obiektÛw.
+%description -l pl.UTF-8
+dumper jest modu≈Çem umo≈ºliwiajƒÖcym wy≈õwietlanie zawarto≈õci z≈Ço≈ºonych i
+zagnie≈ºd≈ºonych struktur Pythona w czytelny, konfigurowalny i
+sterowalny spos√≥b. Obs≈Çuguje rekurencyjne struktury danych, instancje
+klas oraz pozwala na kontrolƒô g≈Çƒôboko≈õci analizy przetwarzanych
+obiekt√≥w.
 
 %prep
 %setup -q -n %{module}-%{version}
