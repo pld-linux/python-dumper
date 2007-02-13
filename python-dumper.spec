@@ -2,7 +2,7 @@
 %define 	module	dumper
 
 Summary:	Python module for dumping nested data structures
-Summary(pl.UTF-8):   Moduł Pythona umożliwiający wypisywanie zawartości złożonych struktur danych
+Summary(pl.UTF-8):	Moduł Pythona umożliwiający wypisywanie zawartości złożonych struktur danych
 Name:		python-%{module}
 Version:	1.0
 Release:	1
