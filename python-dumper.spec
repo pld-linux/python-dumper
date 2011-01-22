@@ -12,6 +12,8 @@ Source0:	http://www.mems-exchange.org/software/files/%{module}/%{module}-%{versi
 # Source0-md5:	be7c0681c1819b244fd43c01ba6b9f67
 URL:		http://www.mems-exchange.org/software/dumper/
 BuildRequires:	python-devel >= 1.5
+BuildRequires:	python-modules
+BuildRequires:	rpm-pythonprov
 Requires:	python >= 1.5
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
