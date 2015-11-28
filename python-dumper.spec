@@ -5,7 +5,7 @@ Summary:	Python module for dumping nested data structures
 Summary(pl.UTF-8):	Moduł Pythona umożliwiający wypisywanie zawartości złożonych struktur danych
 Name:		python-%{module}
 Version:	1.0
-Release:	3
+Release:	4
 License:	CNRI
 Group:		Libraries/Python
 Source0:	http://www.mems-exchange.org/software/files/%{module}/%{module}-%{version}.tar.gz
