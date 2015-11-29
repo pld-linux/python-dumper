@@ -11,6 +11,7 @@ Group:		Libraries/Python
 Source0:	http://www.mems-exchange.org/software/files/%{module}/%{module}-%{version}.tar.gz
 # Source0-md5:	be7c0681c1819b244fd43c01ba6b9f67
 URL:		http://www.mems-exchange.org/software/dumper/
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	python-devel >= 1.5
 BuildRequires:	python-modules
 BuildRequires:	rpm-pythonprov
